@@ -42,16 +42,6 @@ I am interested in problem solving, programming, and building meaningful project
 
 ---
 
-## How to Run
-
-1. Clone the repository
-   git clone https://github.com/your-username/your-repo-name.git
-
-2. Open the project folder
-
-3. Open index.html in your browser
-
----
 
 ## Future Improvements
 
